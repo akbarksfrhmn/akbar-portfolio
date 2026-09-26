@@ -100,9 +100,7 @@ export function Experience() {
           <TiltCard className="card organization tilt">
             <div className="eyebrow">{"ORGANISASI · JAN — DES 2022"}</div>
             <h3>
-              {"Kepala Departemen"}
-              <br />
-              {"Kemahasiswaan"}
+              {"Departemen Kemahasiswaan"}
             </h3>
             <p>
               {"UKM Robotika"}
